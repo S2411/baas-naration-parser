@@ -1,0 +1,5 @@
+{
+  "name": "BAAS Narration Analyser",
+  "description": "A forensic tool used in PMLA investigations by the Directorate of Enforcement, India to analyse bank statement narrations.",
+  "requestFramePermissions": []
+}
